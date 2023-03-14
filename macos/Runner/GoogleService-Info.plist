@@ -9,7 +9,7 @@
 	<key>ANDROID_CLIENT_ID</key>
 	<string>1007258137612-b4v85ikfvvg5kt1vhcreof0htbgvl3ge.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCHNSwDaQmSPlzp5S61XkewNyBBw_GF8T0</string>
+	// Line Removed. This line had Google API Key.
 	<key>GCM_SENDER_ID</key>
 	<string>1007258137612</string>
 	<key>PLIST_VERSION</key>
